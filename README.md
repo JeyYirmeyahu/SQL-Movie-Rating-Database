@@ -1,10 +1,12 @@
-# Movie Rating Database Management System
-### Overview
-This project demonstrates how to design, build, and query a structured movie rating database using SQL.
+# 🎬Movie Rating Database Management System
+A relational database project for managing movie ratings using MySQL.
+### 📌 Project Overview
+This project focuses on designing and implementing a relational database system to manage movie ratings. The system demonstrates key database concepts such as schema design, data insertion, and complex querying using MySQL.
 Core records managed by the database include:
 •	Movies available in the system
 •	Registered users who rate movies
 •	Movie ratings provided by users
+The goal is to transform raw movie rating data into a structured relational database that allows efficient storage, retrieval, and analysis of user rating behavior and movie popularity.
 ## Database Structure
 The database maintains three core tables:
 ### Movies
